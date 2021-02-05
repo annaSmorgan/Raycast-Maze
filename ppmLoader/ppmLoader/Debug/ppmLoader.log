@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\4028\ct4028-assignment-annamorgan17\ppmLoader\ppmLoader\main.cpp(55,21): warning C4018:  '<': signed/unsigned mismatch
+C:\4028\ct4028-assignment-annamorgan17\ppmLoader\ppmLoader\main.cpp(20,18): warning C4101:  'id': unreferenced local variable
+  ppmLoader.vcxproj -> C:\4028\ct4028-assignment-annamorgan17\ppmLoader\Debug\ppmLoader.exe
